@@ -1,0 +1,4 @@
+git clone https://github.com/$GITHUB_ACCOUNT/Back-end-Development-Capstone.git
+cd /home/project/Back-end-Development-Capstone
+bash ./bin/setup.sh
+exit
